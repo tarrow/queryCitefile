@@ -9,5 +9,5 @@ setup(name='queryCitefile',
       author='Thomas Arrow',
       author_email='thomasarrow@gmail.com',
       url='https://github.com/tarrow/queryCiteFile',
-      modules=['queryCiteFile']
+      py_modules=['queryCiteFile']
       )
