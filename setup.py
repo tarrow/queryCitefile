@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from  import setup
+from distutils.core import setup
 
 setup(name='queryCitefile',
       install_requires=[],
